@@ -1,3 +1,5 @@
+package lab1;
+
 import java.util.*;
 
 public class Information {
@@ -15,7 +17,7 @@ public class Information {
         System.out.println("Your Branch :");
         String Branch = sc.nextLine();
 
-        System.out.println("\nYour Information");
+        System.out.println("\nYour Lab1.Information");
         System.out.println(Name);
         System.out.println(Roll);
         System.out.println(Branch);
