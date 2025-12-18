@@ -7,7 +7,7 @@ class Student {
     double cgpa;
 }
 
-public class StudentDemo {
+class StudentDemo {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

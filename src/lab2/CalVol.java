@@ -1,5 +1,5 @@
 package lab2;
-import java.util.*;
+import java.util.Scanner;
 
 class Box {
     double length, width, height;
@@ -9,7 +9,7 @@ class Box {
     }
 }
 
-public class DEMO {
+public class CalVol {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -24,6 +24,8 @@ public class DEMO {
         System.out.print("Enter height: ");
         b.height = sc.nextDouble();
 
-        System.out.println("Volume = " + b.volume());
+        System.out.println("Volume of the box is: " + b.volume());
+
+        sc.close();
     }
 }
