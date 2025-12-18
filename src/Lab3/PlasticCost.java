@@ -44,6 +44,6 @@ public class PlasticCost {
         System.out.println("Box Cost = Rs " + b.getCost());
 
         sc.close();
-        k
+
     }
 }
