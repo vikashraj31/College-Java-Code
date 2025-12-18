@@ -13,27 +13,6 @@
 
 ---
 
-### 📂 Repository Structure
-
-| Folder | Topic | Key Concepts |
-| :--- | :--- | :--- |
-| **Lab 1** | Introduction | Basic Syntax, I/O Operations |
-| **Lab 2** | Objects & Classes | Constructors, Method Overloading |
-| **Lab 3** | **Inheritance** | Single, Multilevel, Hierarchical, Overriding |
-| **Lab 4** | Abstract & Interface | Coming Soon... |
-
----
-
-### 🚀 Lab 3 Highlights (Inheritance)
-
-Currently, I have implemented the following concepts:
-- **Single Inheritance:** Calculating plastic costs for 2D sheets and 3D boxes.
-- **Multilevel Inheritance:** Managing dimensions through `Plate -> Box -> WoodBox` hierarchy.
-- **Hierarchical Inheritance:** Method overriding using `Fruit`, `Banana`, and `Cherry` classes.
-- **Method Overriding:** Handling user account details with the `Account` and `Person` classes.
-
----
-
 ### 🛠 Tools Used
 
 <div align="left">
@@ -46,8 +25,3 @@ Currently, I have implemented the following concepts:
 
 ---
 
-### 👨‍💻 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/vikashraj31/College-Java-Code.git](https://github.com/vikashraj31/College-Java-Code.git)
